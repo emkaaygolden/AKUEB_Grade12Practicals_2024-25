@@ -35,7 +35,6 @@ Each practical is stored in its own folder, named after the corresponding SLO (e
 17. **SLO 16.1.2**: Program with a class, data members, member functions, and objects.
 18. **SLO 16.1.6**: Program demonstrating public and private access specifiers.
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/AKUEB_Grade12_Practicals_2024-25.git
+
+## Note
+These codes are intended for learning and reference only. Please do not copy, modify, or distribute without permission.
